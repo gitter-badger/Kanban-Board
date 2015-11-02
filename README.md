@@ -1,5 +1,7 @@
 # Kanban Board for GitHub Projects
 
+[![Join the chat at https://gitter.im/EllisLab/Kanban-Board](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/EllisLab/Kanban-Board?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The Kanban Board module allows you to easily display all GitHub issues and pull
 requests associated with various milestones and labels. While it *can* just
 display issues in a list, it's most comfortable showing a table of those
